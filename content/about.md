@@ -1,8 +1,7 @@
 +++
+date = 2016-08-09T00:00:00Z
 title = "About Me"
-date = "2016-08-09"
-menu = "main"
+[menu.main]
+
 +++
-
-I am a developer primarily focusing on web technologies.
-
+I am a developer primarily focusing on web technologies. ta da
